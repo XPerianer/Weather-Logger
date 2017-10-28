@@ -10,4 +10,6 @@ Create config.py with *apitoken = "YOUR-API-TOKEN"* inside.
 
 Put in your crontab file to run as often as you like.
 
+Also, you have to make an account at ubidots, and create a device omega2 for it to work.
+
 
